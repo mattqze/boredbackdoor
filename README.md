@@ -1,2 +1,3 @@
 # boredbackdoor
-I am not responsible for anything done with this tool.
+# I AM NOT RESPONSIBLE FOR ANYTHING DONE WITH THIS TOOL.
+Setup an SSH Server, Admin account with just a USB Flash Drive.
